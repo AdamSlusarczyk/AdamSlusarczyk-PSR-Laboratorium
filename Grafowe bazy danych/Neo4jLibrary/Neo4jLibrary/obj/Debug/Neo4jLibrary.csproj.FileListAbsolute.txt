@@ -1,0 +1,17 @@
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jLibrary.exe.config
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jLibrary.exe
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jLibrary.pdb
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\obj\Debug\Neo4jLibrary.csprojAssemblyReference.cache
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\obj\Debug\Neo4jLibrary.csproj.CoreCompileInputs.cache
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\obj\Debug\Neo4jLibrary.exe
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\obj\Debug\Neo4jLibrary.pdb
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4j.Driver.dll
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4j.Driver.xml
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\obj\Debug\Neo4jLibrary.csproj.CopyComplete
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jClient.dll
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jClient.pdb
+C:\Users\logn5\source\repos\Neo4jLibrary\Neo4jLibrary\bin\Debug\Neo4jClient.xml
